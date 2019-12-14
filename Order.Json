@@ -1,0 +1,24 @@
+{
+   "restaurantId": "5df15624118acbb085fa99ae",
+    "items":
+    [
+        {
+            "name": "Pepperoni Pizza",
+            "price": 10,
+            "quantity": 2
+        },
+           {
+            "name": "Cheese Pizza",
+            "price": 9,
+            "quantity": 1
+        }
+    ],
+    "userInfo":
+    {
+        "firstName": "Rajesh",
+        "lastName": "Munjal",
+        "phone": "201-673-0678",
+        "address": "7900 E Princess Dr Arizona"
+    },
+    "specialNote": "Extra Cheese please!!"
+}
